@@ -66,6 +66,37 @@ Motion graphics made from code. A film is a deterministic program: seek to any t
 </tr>
 </table>
 
+## 🛫 In flight
+
+Still private while they take shape.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐉 Hydra
+
+An orchestrator for coding agents, arranged as a tree: each orchestrator has a home of its own and hands work down to the ones beneath it. It runs on local workers first, with a second execution plane to follow.
+
+`Python` `uv` `JSON Schema`
+
+![status](https://img.shields.io/badge/status-first%20slice%20in%20progress-ffd166?style=flat-square&labelColor=0b1020)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 FAFU: Food Alerts For You
+
+Alerts students the moment free food is available nearby, so campus surplus becomes a meal instead of waste. The fastest path between leftover food and a hungry student.
+
+`Go` `DynamoDB` `Terraform`
+
+![status](https://img.shields.io/badge/status-in%20development-ff7ab6?style=flat-square&labelColor=0b1020)
+
+</td>
+</tr>
+</table>
+
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## 🧰 Toolbox
