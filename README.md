@@ -56,24 +56,6 @@ A Raspberry Pi reads the feeds, builds the EPUB and serves it. One line to insta
 </td>
 <td width="50%" valign="top">
 
-### 🎬 motionStudio
-
-Motion graphics made from code. A film is a deterministic program: seek to any time, get the exact frame. Headless Chromium paints it, ffmpeg encodes it, and the same film renders to 9x16, 1x1 and 16x9.
-
-`JavaScript` `Playwright` `ffmpeg`
-
-</td>
-</tr>
-</table>
-
-## 🛫 In flight
-
-Still private while they take shape.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🐉 Hydra
 
 An orchestrator for coding agents, arranged as a tree: each orchestrator has a home of its own and hands work down to the ones beneath it. It runs on local workers first, with a second execution plane to follow.
@@ -81,17 +63,6 @@ An orchestrator for coding agents, arranged as a tree: each orchestrator has a h
 `Python` `uv` `JSON Schema`
 
 ![status](https://img.shields.io/badge/status-first%20slice%20in%20progress-ffd166?style=flat-square&labelColor=0b1020)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 FAFU: Food Alerts For You
-
-Alerts students the moment free food is available nearby, so campus surplus becomes a meal instead of waste. The fastest path between leftover food and a hungry student.
-
-`Go` `DynamoDB` `Terraform`
-
-![status](https://img.shields.io/badge/status-in%20development-ff7ab6?style=flat-square&labelColor=0b1020)
 
 </td>
 </tr>
