@@ -34,13 +34,15 @@ I lead the engineering: the public site (map, a page per pantry, works offline),
 </td>
 <td width="50%" valign="top">
 
-### 📰 MNN: Muse News Network
+### 📰 [MNN: Muse News Network](https://github.com/JoshuaHayesWasHere/MNN)
 
 A daily newspaper written by your AI agent and delivered to your e-reader. Each morning the Kindle wakes to a front page, and the full edition is already waiting in KOReader.
 
 The agent is the newsroom and a Raspberry Pi is the press.
 
 `Python` `AI agents` `Docker` `KOReader` `e-ink`
+
+**[JoshuaHayesWasHere/MNN →](https://github.com/JoshuaHayesWasHere/MNN)**
 
 </td>
 </tr>
