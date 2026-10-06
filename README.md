@@ -38,7 +38,7 @@ I lead the engineering: the public site (map, a page per pantry, works offline),
 
 A daily newspaper written by your AI agent, delivered to a jailbroken Kindle. Each morning the Kindle wakes to a front page, and the full edition is already waiting in KOReader.
 
-The agent is the newsroom and a Raspberry Pi is the press. With no agent, it prints from RSS feeds.
+The agent is the newsroom and a Raspberry Pi is the press.
 
 `Python` `AI agents` `Docker` `KOReader` `e-ink`
 
