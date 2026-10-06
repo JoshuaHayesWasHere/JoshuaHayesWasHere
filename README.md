@@ -68,6 +68,12 @@ An orchestrator for coding agents, arranged as a tree: each orchestrator has a h
 </tr>
 </table>
 
+> ### 🖥️ My setup: [dotfiles](https://github.com/JoshuaHayesWasHere/dotfiles)
+>
+> Everything on the machine the projects above get built on: Arch and Hyprland, a zsh setup split so coding agents get a fast, plain shell while I keep the fancy one, kitty, tmux, Neovim, and my full Claude Code configuration.
+>
+> `Arch Linux` `Hyprland` `zsh` `tmux` `Neovim` `Claude Code`
+
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## 🐍 A year of commits, eaten
