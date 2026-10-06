@@ -99,6 +99,15 @@ Alerts students the moment free food is available nearby, so campus surplus beco
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
+## 🐍 A year of commits, eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoshuaHayesWasHere/JoshuaHayesWasHere/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/JoshuaHayesWasHere/JoshuaHayesWasHere/output/snake.svg" alt="A snake eating its way across my GitHub contribution graph" width="100%">
+  </picture>
+</p>
+
 ## 🧰 Toolbox
 
 <p align="center">
