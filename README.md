@@ -36,11 +36,11 @@ I lead the engineering: the public site (map, a page per pantry, works offline),
 
 ### 📰 MNN: Muse News Network
 
-Your own daily newspaper on a jailbroken Kindle. Each morning the Kindle wakes to a front page, and the full edition is already waiting in KOReader.
+A daily newspaper written by your AI agent, delivered to a jailbroken Kindle. Each morning the Kindle wakes to a front page, and the full edition is already waiting in KOReader.
 
-A Raspberry Pi reads the feeds, builds the EPUB and serves it. One line to install.
+The agent is the newsroom and a Raspberry Pi is the press. With no agent, it prints from RSS feeds.
 
-`Python` `Docker` `KOReader` `e-ink`
+`Python` `AI agents` `Docker` `KOReader` `e-ink`
 
 </td>
 </tr>
