@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 14" width="100%" role="presentation">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd166" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#ffd166"/>
+      <stop offset="0.5" stop-color="#ff7ab6"/>
+      <stop offset="0.75" stop-color="#7cc4ff"/>
+      <stop offset="1" stop-color="#7cc4ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .dot { animation: run 5s linear infinite; }
+    @keyframes run { from { transform: translateX(120px); } to { transform: translateX(1080px); } }
+    @media (prefers-reduced-motion: reduce) { .dot { animation: none; transform: translateX(600px); } }
+  </style>
+  <rect x="0" y="6" width="1200" height="2" rx="1" fill="url(#sweep)"/>
+  <circle class="dot" cx="0" cy="7" r="4" fill="#ff7ab6"/>
+</svg>
