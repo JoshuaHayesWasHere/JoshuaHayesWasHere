@@ -12,11 +12,13 @@ permissions:
 
 jobs:
   snake:
-    runs-on: ubuntu-latest
+    runs-on: ${{ vars.RUNS_ON || 'JoshuaHayesWasHere-ephemeral' }}
     timeout-minutes: 5
     steps:
       - name: Draw the snake
-        uses: Platane/snk@v3
+        # svg-only is a node action: the local runners have no docker, which
+        # Platane/snk itself needs. Both outputs are .svg, all it draws.
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
