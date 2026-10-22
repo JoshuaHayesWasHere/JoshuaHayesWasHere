@@ -9,7 +9,7 @@
 
 ### Hi, I'm Joshua 👋
 
-I'm a software engineer at **Markel** by day. The rest of the time I build things that leave the screen: sensors on food pantry doors, a newspaper that prints itself onto a Kindle every morning, a monitor that tells my Arch box what is wrong with it before I find out the hard way.
+I'm a software engineer at **Markel** by day. The rest of the time I build things that leave the screen: sensors on food pantry doors, an NFC tag that logs my dogs' medication in one tap, a monitor that tells my Arch box what is wrong with it before I find out the hard way.
 
 I like software that has a physical consequence, runs on hardware I can hold, and still works when the network does not.
 
@@ -21,6 +21,17 @@ I like software that has a physical consequence, runs on hardware I can hold, an
 <tr>
 <td width="50%" valign="top">
 
+### 🧵 [jstack](https://github.com/JoshuaHayesWasHere/jstack)
+
+My agent stack for Claude Code and T3 Code. Each task is one agent thread in its own worktree: a home plans it and writes the brief, a crewmate does the work and opens the pull request, a reviewer checks it, and a bus merges it. What lasts lives on disk, so any thread can end and the next picks up from there.
+
+`Python` `uv` `Claude Code` `T3 Code` `gh`
+
+**[JoshuaHayesWasHere/jstack →](https://github.com/JoshuaHayesWasHere/jstack)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🥫 Little Ram Pantries
 
 Free food pantries across VCU's campuses, each with a door sensor and a camera, so a student can check what is on the shelf before making the walk.
@@ -30,19 +41,6 @@ I lead the engineering: the public site (map, a page per pantry, works offline),
 `TypeScript` `Go` `AWS IoT Greengrass` `CloudFront`
 
 **[littlerampantries.com →](https://littlerampantries.com/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 [MNN: Muse News Network](https://github.com/JoshuaHayesWasHere/MNN)
-
-A daily newspaper written by your AI agent and delivered to your e-reader. Each morning the Kindle wakes to a front page, and the full edition is already waiting in KOReader.
-
-The agent is the newsroom and a Raspberry Pi is the press.
-
-`Python` `AI agents` `Docker` `KOReader` `e-ink`
-
-**[JoshuaHayesWasHere/MNN →](https://github.com/JoshuaHayesWasHere/MNN)**
 
 </td>
 </tr>
@@ -58,13 +56,11 @@ The agent is the newsroom and a Raspberry Pi is the press.
 </td>
 <td width="50%" valign="top">
 
-### 🧵 [jstack](https://github.com/JoshuaHayesWasHere/jstack)
+### 🐕 Winnifred
 
-My agent stack for Claude Code and T3 Code. Each task is one agent thread in its own worktree: a home plans it and writes the brief, a crewmate does the work and opens the pull request, a reviewer checks it, and a bus merges it. What lasts lives on disk, so any thread can end and the next picks up from there.
+A medication tracker for the dogs in my household. Each dose schedule lives on the server, which works out what is due today, and tapping an NFC tag logs a dose.
 
-`Python` `uv` `Claude Code` `T3 Code` `gh`
-
-**[JoshuaHayesWasHere/jstack →](https://github.com/JoshuaHayesWasHere/jstack)**
+`Go` `TypeScript` `Svelte` `DynamoDB` `NFC`
 
 </td>
 </tr>
@@ -105,5 +101,5 @@ My agent stack for Claude Code and T3 Code. Each task is one agent thread in its
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
-  <sub>Want to talk pantries, Kindles, or Arch? <a href="https://www.linkedin.com/in/joshua-hayes-vcu/">Find me on LinkedIn.</a></sub>
+  <sub>Want to talk pantries, agents, or Arch? <a href="https://www.linkedin.com/in/joshua-hayes-vcu/">Find me on LinkedIn.</a></sub>
 </p>
