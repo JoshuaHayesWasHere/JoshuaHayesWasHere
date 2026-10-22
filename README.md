@@ -58,13 +58,13 @@ The agent is the newsroom and a Raspberry Pi is the press.
 </td>
 <td width="50%" valign="top">
 
-### 🐉 Hydra
+### 🧵 [jstack](https://github.com/JoshuaHayesWasHere/jstack)
 
-An orchestrator for coding agents, arranged as a tree: each orchestrator has a home of its own and hands work down to the ones beneath it. It runs on local workers first, with a second execution plane to follow.
+My agent stack for Claude Code and T3 Code. Each task is one agent thread in its own worktree: a home plans it and writes the brief, a crewmate does the work and opens the pull request, a reviewer checks it, and a bus merges it. What lasts lives on disk, so any thread can end and the next picks up from there.
 
-`Python` `uv` `JSON Schema`
+`Python` `uv` `Claude Code` `T3 Code` `gh`
 
-![status](https://img.shields.io/badge/status-first%20slice%20in%20progress-ffd166?style=flat-square&labelColor=0b1020)
+**[JoshuaHayesWasHere/jstack →](https://github.com/JoshuaHayesWasHere/jstack)**
 
 </td>
 </tr>
