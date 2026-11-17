@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Joshua Hayes, software engineer at Estes" width="520">
+<img src="assets/banner.svg" alt="Joshua Hayes, software engineer at Estes" width="100%">
 
 I like software with a physical consequence.
 

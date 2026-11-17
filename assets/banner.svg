@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" role="img" aria-label="Joshua Hayes, software engineer at Estes">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="100%" role="img" aria-label="Joshua Hayes, software engineer at Estes">
 <defs><linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffd166"/><stop offset=".5" stop-color="#ff7ab6"/><stop offset="1" stop-color="#7cc4ff"/></linearGradient></defs>
-<rect width="800" height="140" rx="16" fill="#0b1020"/>
-<text x="40" y="70" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#f5f7ff">Joshua Hayes</text>
-<rect x="40" y="86" width="96" height="3" rx="1.5" fill="url(#ink)"/>
-<text x="40" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" fill="#9aa4c7">software engineer @ estes</text>
+<rect width="900" height="210" rx="18" fill="#0b1020"/>
+<text x="48" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="80" font-weight="800" letter-spacing="-1.5" fill="#f5f7ff">Joshua Hayes</text>
+<rect x="50" y="124" width="150" height="5" rx="2.5" fill="url(#ink)"/>
+<text x="48" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" fill="#9aa4c7">software engineer @ estes</text>
 </svg>
